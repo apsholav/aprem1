@@ -1,3 +1,7 @@
 This is my second file.
 adding code and testing @ edureka
+<<<<<<< HEAD
 added code at master branch. I don't care who did what in edurekarebase :P
+=======
+Added code in edurekarebase branch
+>>>>>>> ac1dd7f (file2 added in edurekarebase)
